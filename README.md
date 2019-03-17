@@ -9,7 +9,7 @@ Install with npm:
 ## Usage
 
 ```ts
-var pick = require('object-pick-ts');
+import {ObjectPick as pick} from "object-pick-ts";
  
 let result = pick({a: 'a', b: 'b', c: 2}, ['a', 'c']);
 
