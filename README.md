@@ -1,4 +1,4 @@
-# object-pick-ts [![NPM version](https://img.shields.io/npm/v/object.pick.svg?style=flat)]
+# object-pick-ts
 
 
 ## Install
