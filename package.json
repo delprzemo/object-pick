@@ -1,6 +1,6 @@
 {
   "name": "object-pick-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typescript version for _.pick from lodash. Returns filtered object based on keys in arguments",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
